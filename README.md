@@ -4,12 +4,15 @@ This project is a comprehensive Shuttle Bus Tracking and Monitoring System devel
 🧠 Features
 
 📍 GPS Tracking
+
 Real-time location tracking using the u-blox NEO-6M GPS module to monitor shuttle movement.
 
 👥 Queue Monitoring System
+
 Laser and LDR-based people counter to monitor queue length at bus stops. Triggers a buzzer when the queue exceeds a certain threshold.
 
 🛂 RFID Authentication
+
 Verifies passengers using RFID cards to ensure only registered individuals can board.
 
 🌡️ Environmental Monitoring
@@ -19,6 +22,7 @@ DHT11 Sensor: Measures temperature and humidity inside the bus.
 MQ2 Gas Sensor: Detects harmful gases (e.g., smoke or LPG leaks) for safety alerts.
 
 🔔 Safety Alerts
+
 Buzzer alerts for:
 
 Gas leakage (with distinct pattern)
@@ -28,6 +32,7 @@ Overcrowding at bus stops
 Unauthorized RFID access
 
 🛠️ Hardware Components
+
 ESP32 (or Arduino-based MCU)
 
 u-blox NEO-6M GPS Module
@@ -46,6 +51,7 @@ Power supply & display units (optional)
 
 
 📚 Use Cases
+
 University Shuttle Bus Management
 
 Smart Campus Transportation Systems
