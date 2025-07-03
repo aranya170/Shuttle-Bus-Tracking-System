@@ -7,8 +7,8 @@ const char* ssid = "Leap of Faith"; // Replace with your Wi-Fi SSID
 const char* password = "20010816akd"; // Replace with your Wi-Fi password
 
 // Google Maps API Key
-const char* googleMapsApiKey = "AIzaSyCdfxXAaDPPTh_zBLGhFf4yXXCvukktwDo"; // Replace with your API key
-const char* mapId = "4a863b5a07c780b62c0bddd3"; // Replace with your Map ID
+const char* googleMapsApiKey = "********"; // Replace with your API key
+const char* mapId = "*******"; // Replace with your Map ID
 
 // Default coordinates
 const double DEFAULT_LAT = 23.798157743491537;
